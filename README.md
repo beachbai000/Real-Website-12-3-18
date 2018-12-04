@@ -6,7 +6,8 @@
          font-size: 28pt;
       }
       body {
-          background-image: url("https://raw.githubusercontent.com/beachbai000/Real-Website-12-3-18/master/Sun.JPG")
+          background-image: url("https://raw.githubusercontent.com/beachbai000/Real-Website-12-3-18/master/Sun.JPG" 
+         length=500 width= 500)
       }
       </style>
    </head>
