@@ -2,7 +2,7 @@
    <head>
       <style>
       h1 {
-         color:rgb(241, 66, 244);
+         color:rgb(80, 20, 81);
          font-size: 28pt;
       }
       body {
