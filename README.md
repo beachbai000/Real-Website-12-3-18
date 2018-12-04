@@ -7,7 +7,7 @@
       }
       body {
           background-image: url("https://raw.githubusercontent.com/beachbai000/Real-Website-12-3-18/master/Sun.JPG" 
-         length=500 width= 500)
+         length=4030% width=3024%
       }
       </style>
    </head>
