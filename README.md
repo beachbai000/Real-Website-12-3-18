@@ -7,27 +7,27 @@
       }
       body {
           <img src= "https://raw.githubusercontent.com/beachbai000/Real-Website-12-3-18/master/Sky.JPG">
-         <br> 
+         <br> </br>
          <img src= "https://raw.githubusercontent.com/beachbai000/Real-Website-12-3-18/master/Sun.JPG">
-         <br>
+         <br> </br>
          <img src= "https://raw.githubusercontent.com/beachbai000/Real-Website-12-3-18/master/IMG-0240.JPG">
-         <br>
+         <br> </br>
          <img src= "https://raw.githubusercontent.com/beachbai000/Real-Website-12-3-18/master/IMG-0241.JPG">
-         <br>
+         <br> </br>
          <img src= "https://raw.githubusercontent.com/beachbai000/Real-Website-12-3-18/master/IMG-0242.JPG">
-         <br>
+         <br> </br>
          <img src= "https://raw.githubusercontent.com/beachbai000/Real-Website-12-3-18/master/IMG-0243.JPG"> 
-         <br>
+         <br> </br>
          <img src= "https://raw.githubusercontent.com/beachbai000/Real-Website-12-3-18/master/IMG-0244.JPG">
-         <br>
+         <br> </br>
          <img src= "https://raw.githubusercontent.com/beachbai000/Real-Website-12-3-18/master/IMG-0239.JPG">
-         <br>
+         <br> </br>
          <img src= "https://raw.githubusercontent.com/beachbai000/Real-Website-12-3-18/master/IMG-1402.JPG">
-         <br>
+         <br> </br>
          <img src= "https://raw.githubusercontent.com/beachbai000/Real-Website-12-3-18/master/IMG-1404.JPG">
-         <br>
+         <br> </br>
          <img src= "https://raw.githubusercontent.com/beachbai000/Real-Website-12-3-18/master/IMG-1405.JPG">
-         <br>
+         <br> </br>
          }
       </style>
    </head>
