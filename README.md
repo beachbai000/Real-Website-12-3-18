@@ -1,10 +1,11 @@
-<html>
+ <title> My photos 
+     <html>
    
    
    
-   <h3> My Photos 
+   <h3> 
           <img src= "https://raw.githubusercontent.com/beachbai000/Real-Website-12-3-18/master/Sky.JPG">
-      <p> Hi
+      <p> Hi 
          <img src= "https://raw.githubusercontent.com/beachbai000/Real-Website-12-3-18/master/Sun.JPG">
       <p> Hi
          <img src= "https://raw.githubusercontent.com/beachbai000/Real-Website-12-3-18/master/IMG-0240.JPG">
@@ -27,7 +28,7 @@
       <p> Hi
          
          
-         
-         
-</html>
+      </html>   
+   </title> 
+
          
